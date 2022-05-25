@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I'm @APPLE Pie
 - 👨🏻‍🚀 I’m interested in Programmer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 
 <!---
 abdullah0adil/abdullah0adil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
